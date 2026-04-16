@@ -1,6 +1,12 @@
-# Unilink_Michael-Abelard-Wealthy-Ghondo-Kusuma_APAYA_24082010140
-Kelompok APAYA kelas D NPM 24082010140
-Michael Abelard W.G.K (24082010140) Mengerjakan halaman event, halaman tambah postingan dan halaman profile , lalu membuat 
-navigasi antar halaman nya dari splash ke tiap tiap halaman
+# Unilink-APAYA-Kelompok-II
+Platform digital kemitraan antara mahasiswa dan perusahaan.
 
-Deskripsi aplikasi : aplikasi ini adalah aplikasi yang didesain untuk menjadi penghunung antara alumni dengan mahasiswa mahasiswa yang masih aktif, sehingga mahasiswa juga bisa mendapatkan banyak pengalaman dari para alumni alumni , lalu disini juga memiliki fitur untuk bisa tau ada event seminar apa aja yang sedang berlangsung sehingga mahasiswa bisa memilihnya, lalu juga ada fitur koneksi untuk mencari koneksi dengan para para alumni yang sudah lulus agar bisa mendapatkan relasi baru , dan juga ada fitur untuk menambahkan postingan yang berguna untuk mengepost judul kegiatan kegiatan yang telah diikuti , serta ada fitur notifikasi untuk melihat notifikasi notifikasi yang masuk di dalam aplikasi
+Michael Abelard Wealthy Ghondo Kusuma (24082010140) Mengerjakan halaman event , halaman tambah postingan
+dan membuat halaman profile , serta membuat alur navigasi dari halaman splash sampe akhir semuanya navigasi baik itu pindah halaman atau balik ke halaman
+
+Deskripsi aplikasi singkat : 
+UniLink adalah platform kemitraan berbasis Android yang dirancang khusus untuk memfasilitasi program magang antara mahasiswa dan sektor industri secara lebih transparan dan terintegrasi. Aplikasi ini menyederhanakan proses pencarian mitra perusahaan, memungkinkan mahasiswa untuk mengeksplorasi berbagai peluang karier profesional, serta membangun koneksi langsung dengan penyedia program magang dalam satu ekosistem digital yang efisien.
+Dan ada fitur koneksi untuk menambah koneksi dengan para mahasiswa yang sedang mencari magang juga disitu kita bisa memperluas koneksi kita 
+lalu ada fitur tambah postingan yang berguna untuk menambahkan postingan psotingan kegiatan yang telah ikuti
+Dan ada fitur event yang berguna untuk melihat event event yang sedang berlangsung apa saja 
+lalu ada fitur notifikasi yang berguna untuk melihat lihat notifikasi yang sudah didapat apa sajaa
